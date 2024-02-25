@@ -157,6 +157,8 @@ def barcharts(df):
         font_size=14,  # Set font size
         paper_bgcolor="white",  # Set background color to white
         plot_bgcolor="white",  # Set plot background color to white,
+        xaxis={'fixedrange': True},
+        yaxis={'fixedrange': True},
 
         font=dict(
             family="sans-serif",
