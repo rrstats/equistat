@@ -1,11 +1,7 @@
 import datetime as dt
 import yfinance as yf
 import pandas as pd
-from pandas_datareader import data as pdr
 import numpy as np
-from scipy.stats import norm
-import matplotlib.pyplot as plt
-import requests
 import datetime as dt
 import plotly.io as pio
 import plotly.graph_objects as go
