@@ -1,9 +1,0 @@
-datetime
-yfinance
-pandas
-pandas_datareader 
-data
-numpy
-matplotlib.pyplot
-plotly
-streamlit
