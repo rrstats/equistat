@@ -1,0 +1,10 @@
+datetime
+import yfinance
+import pandas
+pandas_datareader 
+data
+numpy
+matplotlib.pyplot
+plotly.io
+plotly.graph_objects
+streamlit
