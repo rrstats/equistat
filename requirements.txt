@@ -1,10 +1,9 @@
 datetime
-import yfinance
-import pandas
+yfinance
+pandas
 pandas_datareader 
 data
 numpy
 matplotlib.pyplot
-plotly.io
-plotly.graph_objects
+plotly
 streamlit
