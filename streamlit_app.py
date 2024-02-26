@@ -50,6 +50,15 @@ st.set_page_config(
     page_icon="👋",
 )
 
+show_pages(
+    [
+        #Page("streamlit_app.py", "Page 2", ":books:"),
+        Page("streamlit_app.py", "Highest One-Day Gain"),
+        Page("pages/Weekday Analysis.py", "Weekday Analysis"),
+    ]
+)
+
+
 # st.sidebar.success("Select a demo above.")
 
 
