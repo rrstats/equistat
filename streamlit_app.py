@@ -6,7 +6,7 @@ import datetime as dt
 import plotly.io as pio
 import plotly.graph_objects as go
 import streamlit as st
-from st_pages import Page, show_pages, add_page_title
+
 
 
 NIFTY_AUTO = ["ASHOKLEY.NS","BAJAJ-AUTO.NS","BALKRISIND.NS","BHARATFORG.NS","BOSCHLTD.NS","EICHERMOT.NS","HEROMOTOCO.NS","MRF.NS","M&M.NS","MARUTI.NS","MOTHERSON.NS","SONACOMS.NS","TVSMOTOR.NS","TATAMOTORS.NS","TIINDIA.NS"]
