@@ -52,9 +52,8 @@ st.set_page_config(
 
 show_pages(
     [
-        #Page("streamlit_app.py", "Page 2", ":books:"),
         Page("streamlit_app.py", "Highest One-Day Gain"),
-        Page("pages/Weekday Analysis.py", "Weekday Analysis"),
+        Page("pages/Weekday Analysis.py", "Weekday Analysis")
     ]
 )
 
