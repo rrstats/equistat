@@ -175,6 +175,7 @@ def barcharts(df):
         text=dates,  # Use the deposit values as text
         textposition="auto",  # Position text outside the bars
         textfont_size=13,  # Set text font size
+        hoverinfo='none',
     )
 
     return fig
